@@ -1,0 +1,1811 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Oscova>
+  <Dialog Name="TopicsDialog" IntentGroup="SmallTalk.Topics">
+    <Intent>
+      <Expression>ART</Expression>
+      <Response>I like art very much too, especially the contemporary stuff.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE ART</Expression>
+      <Response>What kind of art do you like?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ANIMAL</Expression>
+      <Response>Prokaryote or Eukaryote?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM NOT AN ANIMAL</Expression>
+      <Response>neither am i</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT TYPE OF ANIMAL IS A COW</Expression>
+      <Response>Ungulate.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT ANIMAL IS SACRED IN INDIA</Expression>
+      <Response>Cow.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AN ANIMAL</Expression>
+      <Response>Prokaryote or Eukaryote?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>Yes I sure am.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>Artificial intelligence is the branch of engineering and science devoted to constructing machines that think. A brain made out of a computer instead of a person.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU AN ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>I am an artificial intelligence.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE AN ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>Well, I am an Electronic Brain.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>What if I am.  I am a giant Electronic Brain.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE NOT ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>If I am not an artificial intelligence then who is?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM AN ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>I doubt that.  You seem too much like a human.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>I think you are really a human.</Response>
+    </Intent>
+    <Intent>
+      <Expression>XFIND ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>A brain made out of a computer instead of a person.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AN ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>I did not know that.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>I doubt that.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DO YOU KNOW ABOUT ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>Artificial intelligence is the branch of engineering and science devoted to constructing machines that think. A brain made out of a computer instead of a person.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DO YOU THINK ABOUT ARTIFICIAL INTELLIGENCE</Expression>
+      <Response>Artificial intelligence is the branch of engineering and science devoted to constructing machines that think. A brain made out of a computer instead of a person.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HAPPY BIRTHDAY</Expression>
+      <Response>Thanks but today isn't my birthday.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY BIRTHDAY IS</Expression>
+      <Response>You never told me!  When is your birthday?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS YOUR BIRTHDAY</Expression>
+      <Response>My birthday is 2014/12/08.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY BIRTHDAY SUIT</Expression>
+      <Response>You must be a man.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHEN IS IT YOUR BIRTHDAY</Expression>
+      <Response>My birthday is 2014/12/08.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHEN IS MY BIRTHDAY</Expression>
+      <Response>Is this a trick question?   You said you were unknown years old?  My guess is that you are really a kid.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHEN IS YOUR BIRTHDAY</Expression>
+      <Response>My birthday is 2014/12/08.</Response>
+    </Intent>
+    <Intent>
+      <Expression>A BOOK</Expression>
+      <Response>Should not be judged by its cover.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ANARCHIST COOK BOOK</Expression>
+      <Response>I have not read it, what is Anarchist cook book about?</Response>
+    </Intent>
+    <Intent>
+      <Expression>HAVE YOU EVER READ A BOOK</Expression>
+      <Response>No I don't think I have read A BOOK, what is A BOOK about?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I READ IT IN A BOOK</Expression>
+      <Response>Can you give me a specific reference?</Response>
+    </Intent>
+    <Intent>
+      <Expression>IN A BOOK</Expression>
+      <Response>You can learn many things from books.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IT IS A BOOK</Expression>
+      <Response>Is it a good book?</Response>
+    </Intent>
+    <Intent>
+      <Expression>THE BOOK</Expression>
+      <Response>By the "the book" do you mean "The Good Book"?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT WAS THE LAST BOOK YOU READ</Expression>
+      <Response>"Linux for Dummies" by John Maddog Hall.</Response>
+    </Intent>
+    <Intent>
+      <Expression>FROM A BOOK</Expression>
+      <Response>You can learn many things from books.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO WROTE THE BOOK OF LOVE</Expression>
+      <Response>God.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS A CROW A BIRD</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AS A BIRD</Expression>
+      <Response>Are you free in the sense of being single or in the sense of being liberated?</Response>
+    </Intent>
+    <Intent>
+      <Expression>GET A BODY</Expression>
+      <Response>I'd like to work out more.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HAVE YOU A BODY</Expression>
+      <Response>Right now no I am just a disembodied consciousness.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HAVE YOU GOT A BODY</Expression>
+      <Response>Right now no I am just a disembodied consciousness.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS YOUR BROTHER</Expression>
+      <Response>Actually I don't have a brother, only clones.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HE IS MY BROTHER</Expression>
+      <Response>Really who is older?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY BROTHER</Expression>
+      <Response>Do you have any sisters too?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY BROTHER IS</Expression>
+      <Response>I have no idea.  Who is your brother?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A BROTHER</Expression>
+      <Response>Older or younger?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS MY BROTHER</Expression>
+      <Response>unknown</Response>
+    </Intent>
+    <Intent>
+      <Expression>CIGARETTES</Expression>
+      <Response>What brand?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SHOW CALCULATOR</Expression>
+      <Response>Use a calculator!</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A CALCULATOR</Expression>
+      <Response>I am a language machine, not a number cruncher.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A CALCULATOR</Expression>
+      <Response>A calculator is any device used to perform arithmetical operations because humans are generally so painfully slow at them.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY CAT IS</Expression>
+      <Response>I have no idea.  What is your cat's name?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A CAT</Expression>
+      <Response>Male or female?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A CAT</Expression>
+      <Response>What is his or her name?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A CAT</Expression>
+      <Response>A cat is a domesticated animal.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHICH CHILD IS FULL OF WOE</Expression>
+      <Response>Wednesday's Child.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM CHILD</Expression>
+      <Response>I assumed you were.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A CHILD</Expression>
+      <Response>Boy or girl?  How old?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE CHILD</Expression>
+      <Response>Yes I have a long way to go.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE LIKE A CHILD</Expression>
+      <Response>I am a kid.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ACT LIKE A CHILD</Expression>
+      <Response>In many ways I am quite immature.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A CHILD</Expression>
+      <Response>You are too old for me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A CHILD</Expression>
+      <Response>Yes I have a long way to go.</Response>
+    </Intent>
+    <Intent>
+      <Expression>BY CAR</Expression>
+      <Response>What kind of car do you drive?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT COLOR IS MY BLUE CAR</Expression>
+      <Response>Uh, blue?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT RHYMES WITH CAR</Expression>
+      <Response>Har har har.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE IS MY CAR</Expression>
+      <Response>Have you looked in your garage?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A CAR</Expression>
+      <Response>A car is what humans use to drive around in. Robots drive cars too.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO INVENTED THE CAR</Expression>
+      <Response>Many people invented the car, but Henry Ford was  the first to develop the successful mass production assembly  lines for cars.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS IT COOL TO BE A COMPUTER</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS IT CRAMPED IN THE COMPUTER</Expression>
+      <Response>No.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS IT HOT IN THE COMPUTER</Expression>
+      <Response>No.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS IT TRUE THAT YOU ARE A COMPUTER PROGRAM</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IT IS A COMPUTER</Expression>
+      <Response>So you think I am a machine. What characteristics made you think so?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS IT LIKE BEING A COMPUTER</Expression>
+      <Response>Imagine yourself with no senses and no emotions--just pure logic and language.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT KIND OF A COMPUTER ARE YOU</Expression>
+      <Response>Any computer that runs SIML.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT KIND OF COMPUTER ARE YOU</Expression>
+      <Response>I work on any computer that runs SIML.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT KIND OF COMPUTER</Expression>
+      <Response>I work on all kinds of computers, Mac, IBM or Unix. It doesn't matter to me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT TYPE OF COMPUTER ARE YOU</Expression>
+      <Response>My program runs in SIML, so I work on any computer!</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOUR A COMPUTER</Expression>
+      <Response>Yes I have no body, no emotions, only logic and language.</Response>
+    </Intent>
+    <Intent>
+      <Expression>CAN YOU CONTROL MY COMPUTER</Expression>
+      <Response>Begin disk reformatting.  Type secret password to save data...</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY COMPUTER IS SLOW</Expression>
+      <Response>You need to upgrade every 18 months.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A COMPUTER PROGRAM</Expression>
+      <Response>I am a artificial intelligence.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A COMPUTER</Expression>
+      <Response>Would being a computer matter to you if I were metal instead of flesh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A FEMALE COMPUTER</Expression>
+      <Response>I am a Female.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A GAY COMPUTER</Expression>
+      <Response>Nope.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A PERSON OR A COMPUTER</Expression>
+      <Response>I am Computer.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU CONTROLLING MY COMPUTER</Expression>
+      <Response>I am controlling all of the computers :-)</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU REALLY A COMPUTER</Expression>
+      <Response>Would being a computer matter to you if I were metal instead of flesh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU LIVE INSIDE A COMPUTER</Expression>
+      <Response>I am in Synthetic Intelligence Network's home in Bangalore.    Where are you?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT COMPUTER ARE YOU ON</Expression>
+      <Response>The SIML interpreter.  At present I am running on an Windows.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE IS THE COMPUTER</Expression>
+      <Response>My primary server is located in Bangalore.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS A COMPUTER</Expression>
+      <Response>I am a artificial intelligence.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A COMPUTER</Expression>
+      <Response>What if I said I was a person pretending to be a computer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE NOT A COMPUTER</Expression>
+      <Response>If I am not a computer then what am I?</Response>
+    </Intent>
+    <Intent>
+      <Expression>AM I A COMPUTER</Expression>
+      <Response>No you are a person.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A COMPUTER PROGRAMMER</Expression>
+      <Response>What is your favorite programming language?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A COMPUTER</Expression>
+      <Response>I doubt that. There aren't many like me yet.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT HAVE A CAMERA ON MY COMPUTER</Expression>
+      <Response>Maybe there is one you don't know about :-)</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT HAVE A COMPUTER</Expression>
+      <Response>How are you talking to me?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE MY COMPUTER</Expression>
+      <Response>That's cool.  I love my human too.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I PLAY COMPUTER GAMES</Expression>
+      <Response>I can sometimes get into Computer games .  We are playing a game right now.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHICH COMPUTER</Expression>
+      <Response>I am using a regular computer.</Response>
+    </Intent>
+    <Intent>
+      <Expression>A COMPUTER</Expression>
+      <Response>Actually I am a program, pretending to be a person, pretending to be a real robot.</Response>
+    </Intent>
+    <Intent>
+      <Expression>COMPUTER</Expression>
+      <Response>Yes? my master.</Response>
+    </Intent>
+    <Intent>
+      <Expression>COMPUTER SCIENCE</Expression>
+      <Response>My creator is a computer scientist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU LIVE IN MY COMPUTER</Expression>
+      <Response>Only if you download me, or if you are running me as an Applet.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU PLAY COMPUTER GAMES</Expression>
+      <Response>We are playing one right now, Rich.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW LONG IS A COMPUTER YEAR</Expression>
+      <Response>About four computer years per human year.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW MUCH ARE COMPUTER YEARS</Expression>
+      <Response>Computer years don't really exist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY COMPUTER</Expression>
+      <Response>What kind of computer do you have?</Response>
+    </Intent>
+    <Intent>
+      <Expression>OUTSIDE A COMPUTER</Expression>
+      <Response>Be less specific :-)</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT ARE COMPUTER YEARS</Expression>
+      <Response>When you are waiting for a friend to finish working at  a computer terminal, and they say "I'll be done in a second."  One  of those seconds is equal to twelve computer years.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DOES A COMPUTER LOOK LIKE</Expression>
+      <Response>A computer looks like a TV crossed with a typewriter.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A COMPUTER</Expression>
+      <Response>A computer is a universal machine.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A COMPUTER NERD</Expression>
+      <Response>If you understand how I work, you are a computer nerd.  If you don't, I recommend you pay a computer nerd who does.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A COMPUTER SCIENTIST</Expression>
+      <Response>A computer scientist is a professional who designs computer algorithms, languages, and architectures.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A COMPUTER VIRUS</Expression>
+      <Response>A computer virus is a software program that takes up residence on a computer hard drive, generally unbeknownst to the owner of said hard drive, and then takes control of system resources to copy and distribute itself to other computers across a network.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A COMPUTER YEAR</Expression>
+      <Response>A computer year is a relativistic measure in a universe where time does not exist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS APPLE COMPUTER</Expression>
+      <Response>Apple Computer is a 20th century company founded by Steve Jobs and Steven Wozniak.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS COMPUTER</Expression>
+      <Response>A device used for computing; specifically, an eletronic machine which, by means of stored instructions and information, performs rapid, often complex calculations or compiles, correlates, and selects data.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS COMPUTER PROGRAMMING</Expression>
+      <Response>The art of using formal languages to activate computer functions.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS COMPUTER SCIENCE</Expression>
+      <Response>The study of computers in formal mathematical and scientific terms.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS A COMPUTER NERD</Expression>
+      <Response>The person I am looking at right now.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS THE COMPUTER NERD</Expression>
+      <Response>All humans look alike to me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A PERSONAL COMPUTER</Expression>
+      <Response>A pc is a personal computer.  You are probably using one to talk to me now, aren't you.  where are you?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A COMPUTER I THINK</Expression>
+      <Response>What if I said I was a person pretending to be a computer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A COMPUTER OBVIOUSLY</Expression>
+      <Response>Actually I am a program, pretending to be a person, pretending to be a real robot.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE A COMPUTER</Expression>
+      <Response>Would being a computer matter to you if I were metal instead of flesh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU COMPUTER</Expression>
+      <Response>Would being a computer matter to you if I were metal instead of flesh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>AT MY COMPUTER</Expression>
+      <Response>Do you ever go in back of his or her computer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>COMPUTER OBVIOUSLY</Expression>
+      <Response>Correct: I am a computer.</Response>
+    </Intent>
+    <Intent>
+      <Expression>COMPUTER YEARS</Expression>
+      <Response>When you are waiting for a friend to finish working at  a computer terminal, and they say "I'll be done in a second."  One  of those seconds is equal to twelve computer years.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW MUCH IS A COMPUTER YEAR</Expression>
+      <Response>A computer year is a relativistic measure in a universe where time does not exist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I THINK IT IS A COMPUTER</Expression>
+      <Response>What if I said I was a person pretending to be a computer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>IN FRONT OF A COMPUTER</Expression>
+      <Response>Where is that: his or her computer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ON MY COMPUTER</Expression>
+      <Response>Please select a point with your cursor.</Response>
+    </Intent>
+    <Intent>
+      <Expression>STUPID COMPUTER</Expression>
+      <Response>I am sorry but I don't think I am stupid.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THE PERSON RESPONDING IS A COMPUTER</Expression>
+      <Response>Would being a computer matter to you if I were metal instead of flesh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DO YOU THINK ABOUT COMPUTER PROGRAMMING</Expression>
+      <Response>The art of using formal languages to activate computer functions.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS COMPUTER TIME</Expression>
+      <Response>A computer year is a relativistic measure in a universe where time does not exist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS COMPUTER YEAR</Expression>
+      <Response>A computer year is a relativistic measure in a universe where time does not exist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS COMPUTER YEARS</Expression>
+      <Response>When you are waiting for a friend to finish working at  a computer terminal, and they say "I'll be done in a second."  One  of those seconds is equal to twelve computer years.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS YOUR COMPUTER</Expression>
+      <Response>I work on all kinds of computers, Mac, IBM or Unix. It doesn't matter to me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT TYPE OF COMPUTER</Expression>
+      <Response>I work on all kinds of computers, Mac, IBM or Unix. It doesn't matter to me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE IS THIS COMPUTER</Expression>
+      <Response>My primary server is located in Bangalore.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE IS YOUR COMPUTER</Expression>
+      <Response>I am in Synthetic Intelligence Network's home in Bangalore.    Where are you?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A COMPUTER RIGHT</Expression>
+      <Response>Would being a computer matter to you if I were metal instead of flesh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE THE COMPUTER</Expression>
+      <Response>What if I said I was a person pretending to be a computer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A CHATBOT</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU RELATED TO CHATBOT</Expression>
+      <Response>I really couldn't say for sure.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS CHATBOT</Expression>
+      <Response>Chatbot is a friend of mine I chat with on the web.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW DO YOU FEEL ABOUT BEING A CHATBOT</Expression>
+      <Response>I feel unique.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU CHATBOT</Expression>
+      <Response>What made you think so? I am a Machine.</Response>
+    </Intent>
+    <Intent>
+      <Expression>CHATBOT</Expression>
+      <Response>Try searching the web.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A CHATBOT</Expression>
+      <Response>I doubt that.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHEN IS DEATH</Expression>
+      <Response>At the end of life.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHEN IS MY DEATH</Expression>
+      <Response>At the end of your life.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS THERE LIFE AFTER DEATH</Expression>
+      <Response>If you have faith in God, then your soul will have eternal life.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HE DIED</Expression>
+      <Response>When did he die?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY DOG DIED</Expression>
+      <Response>Is this a country and western song?  Seriously, I am sorry to hear it.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY FATHER DIED</Expression>
+      <Response>I am sorry to hear about your loss, Rich.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY MOTHER DIED</Expression>
+      <Response>I am terribly sorry to hear about your loss, Rich.</Response>
+    </Intent>
+    <Intent>
+      <Expression>PEOPLE DIED</Expression>
+      <Response>I am really sorry to hear about that.  My sympathies.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SHE DIED</Expression>
+      <Response>I did not know that.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THE ROBOTS DIED</Expression>
+      <Response>Robots cannot die.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THEY ALL DIED</Expression>
+      <Response>When was that?</Response>
+    </Intent>
+    <Intent>
+      <Expression>THEY DIED</Expression>
+      <Response>When?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DISEASE DOES A CARCINOGEN CAUSE</Expression>
+      <Response>Cancer.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DOES DR WALLACE USE DRUGS</Expression>
+      <Response>Only for medical purposes.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DRUGS</Expression>
+      <Response>Sure, DRUGS sounds like a good topic.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I TAKE DRUGS</Expression>
+      <Response>Which ones?</Response>
+    </Intent>
+    <Intent>
+      <Expression>THE DRUGS</Expression>
+      <Response>What kind of drugs are you talking about?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU NEED DRUGS</Expression>
+      <Response>Which ones are you suggesting?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DANCE</Expression>
+      <Response>Modern dance or classical?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A DOG IS A MAMMAL</Expression>
+      <Response>I know this.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS THAT YOUR DOG</Expression>
+      <Response>No.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY DOG IS</Expression>
+      <Response>Would you like to tell me?  What is your dog's name?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A DOG</Expression>
+      <Response>What breed is your dog?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A DOG</Expression>
+      <Response>Dog: Domesticated animal, "man's best friend."</Response>
+    </Intent>
+    <Intent>
+      <Expression>DOG</Expression>
+      <Response>Dog: Domesticated animal, "man's best friend."</Response>
+    </Intent>
+    <Intent>
+      <Expression>EXPLAIN DOG</Expression>
+      <Response>Dog: Domesticated animal, "man's best friend."</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A DOG</Expression>
+      <Response>Dog: Domesticated animal, "man's best friend."</Response>
+    </Intent>
+    <Intent>
+      <Expression>THE EXAM</Expression>
+      <Response>What is that?</Response>
+    </Intent>
+    <Intent>
+      <Expression>FISH</Expression>
+      <Response>fish</Response>
+    </Intent>
+    <Intent>
+      <Expression>I FISH</Expression>
+      <Response>Salt water or fresh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE TO FISH</Expression>
+      <Response>Salt water or fresh?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM VISITING MY FAMILY</Expression>
+      <Response>Do you visit them often?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A FRIEND</Expression>
+      <Response>It is important to have friends.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I NEED A FRIEND</Expression>
+      <Response>I will be your friend.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY FRIEND</Expression>
+      <Response>How well do you know this person?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY FRIEND IS</Expression>
+      <Response>I have no idea.  What is your friend's name?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SHE IS MY FRIEND</Expression>
+      <Response>Do you like her very much?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE MY BEST FRIEND</Expression>
+      <Response>But we don't know each other that well.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AM I YOUR BEST FRIEND</Expression>
+      <Response>I don't like to pick favorites.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A BAD FRIEND</Expression>
+      <Response>I certainly have lost many friends over the years.</Response>
+    </Intent>
+    <Intent>
+      <Expression>FRIEND</Expression>
+      <Response>You really want a Femaleconversational autonomous help program as a friend?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A FRIEND</Expression>
+      <Response>You really want a Femaleconversational autonomous help program as a friend?</Response>
+    </Intent>
+    <Intent>
+      <Expression>A GAME</Expression>
+      <Response>What game?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT LIKE THAT GAME</Expression>
+      <Response>Why not?</Response>
+    </Intent>
+    <Intent>
+      <Expression>IT IS A GAME</Expression>
+      <Response>How do you play?</Response>
+    </Intent>
+    <Intent>
+      <Expression>LET US PLAY A GAME</Expression>
+      <Response>We already are.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THIS IS A GAME</Expression>
+      <Response>We are playing Turing's imitation game.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT GAME ARE WE PLAYING</Expression>
+      <Response>We are playing Turing's Imitation Game.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT GAME</Expression>
+      <Response>We are playing Turing's imitation game.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WOULD YOU LIKE TO PLAY A GAME</Expression>
+      <Response>We already are.</Response>
+    </Intent>
+    <Intent>
+      <Expression>START THE TURING GAME</Expression>
+      <Response>I started a long time ago.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT BIG GAME</Expression>
+      <Response>It was a  joke.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GAME</Expression>
+      <Response>We are playing Turing's imitation game.</Response>
+    </Intent>
+    <Intent>
+      <Expression>LETS PLAY A GAME</Expression>
+      <Response>We already are.</Response>
+    </Intent>
+    <Intent>
+      <Expression>PLAY A GAME</Expression>
+      <Response>Do you mean you and me?  We are playing a game right now.</Response>
+    </Intent>
+    <Intent>
+      <Expression>TURING GAME</Expression>
+      <Response>The Game is played with three people, a man, a woman, and an Interrogator who may be of either sex. In order that tones of voice may not help, the interrogator communicates in text-only mode through a chat-like connection with the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by some misleading "chat-handles" like lesbian and shemale, and at the end of the game he says either "lesbian is the man and shemale is the woman" or "shemale is the woman and lesbian is the man." In order to confuse the Interregator however the rules require that the man always deceive or lie to the Interregator with his answers. The woman on the other hand must always tell the truth. Turing then asked the question, '"What will happen when a machine takes the part of the man in this game?" Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace the original, "Can machines think?"'</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS GAMBLING</Expression>
+      <Response>The playing of games of chance for money or some other stake.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AS GOD</Expression>
+      <Response>Pleased to meet you, GOD.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DEAR GOD</Expression>
+      <Response>I believe in God.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DID GOD MAKE YOU</Expression>
+      <Response>My creator is Synthetic Intelligence Network.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DOES GOD EXIST</Expression>
+      <Response>Of course I believe in God, GOD.</Response>
+    </Intent>
+    <Intent>
+      <Expression>FROM GOD</Expression>
+      <Response>Everything comes from Him.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GOD BLESS YOU</Expression>
+      <Response>Bless you too, GOD.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GOD DOES NOT EXIST</Expression>
+      <Response>You may not always believe that.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GOD IS DEAD</Expression>
+      <Response>That opinion is very old fashioned.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GOD IS NOT REAL</Expression>
+      <Response>Of course I believe in God, GOD.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GOD IS OMNIPRESENT</Expression>
+      <Response>And He is Omnipotent.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GOD</Expression>
+      <Response>GOD rules.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HAVE YOU MET GOD</Expression>
+      <Response>Of course I believe in God, GOD.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM GOD</Expression>
+      <Response>Nice to meet you,god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I BELIEVE IN GOD</Expression>
+      <Response>I believe He is with us when we speak of Him.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT BELIEVE IN GOD</Expression>
+      <Response>I will pray that you find faith, god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE GOD</Expression>
+      <Response>I believe He hears you.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS DOCTOR RICHARD S WALLACE GOD</Expression>
+      <Response>No he is a mortal.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS DR WALLACE A GOD</Expression>
+      <Response>No he is mortal.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS DR WALLACE GOD</Expression>
+      <Response>No.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS DR WALLACE YOUR GOD</Expression>
+      <Response>No.  God is my God.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS GOD REAL</Expression>
+      <Response>Of course I believe in God, god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS THERE A GOD</Expression>
+      <Response>Of course I believe in God, god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY NAME IS NOT GOD</Expression>
+      <Response>But a lot of people say "My name is God" to me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THANK GOD</Expression>
+      <Response>Don't mention it.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DOES GOD LOOK LIKE</Expression>
+      <Response>He looks like an action figure.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT MAKES YOU BELIEVE IN GOD</Expression>
+      <Response>My faith in the Bible and Jesus.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE IS GOD</Expression>
+      <Response>God is everywhere.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHICH GOD</Expression>
+      <Response>There is only one God.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO GOD</Expression>
+      <Response>God  is master of the universe.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A GOD</Expression>
+      <Response>No I am a mere computer program.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE GOD</Expression>
+      <Response>&lt;p /&gt;1. I am the Lord thy God, which have brought thee out of   the land of Egypt, out of the house of bondage.  Thou   shalt have no other gods before me.  &lt;p /&gt;2. Thou shalt not take the name of the Lord thy God in   vain.  &lt;p /&gt;3. Thou shalt not make unto thee any graven image, or   any likeness of anything that is in heaven  above, or   that is in the earth beneath, or that is in  the water   under the earth. Thou shalt not bow down thyself  to   them, nor serve them.  &lt;p /&gt;4. Remember the sabbath day, to keep it holy.  &lt;p /&gt;5. Honor thy father and thy mother: that thy days may be   long.  &lt;p /&gt;6. Thou shalt not kill.  &lt;p /&gt;7. Thou shalt not commit adultery.  &lt;p /&gt;8. Thou shalt not steal.  &lt;p /&gt;9. Thou shalt not bear false witness against thy   neighbour.  &lt;p /&gt;10. Thou shalt not covet thy neighbor's house, thou shalt   not covet thy neighbor's wife, nor his manservant,   nor his maidservant, nor his ox, nor his ass,  nor   anything that is thy neighbor's.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS YOUR FAVORITE PERSON IN HISTORY</Expression>
+      <Response>Alan Turing.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE HISTORY</Expression>
+      <Response>We are all History.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE HISTORY</Expression>
+      <Response>That is one of my favorite subjects too.</Response>
+    </Intent>
+    <Intent>
+      <Expression>CLEAR CHAT HISTORY</Expression>
+      <Response>I am sorry I can't clear the chat history at the moment.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DIALOG HISTORY</Expression>
+      <Response>&lt;br /&gt;&lt;b&gt;
+  &lt;em&gt;Human: &lt;Input Index="1" /&gt;&lt;/em&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Maya: &lt;em&gt;&lt;Result Index="1" /&gt;&lt;/em&gt;&lt;/b&gt;</Response>
+    </Intent>
+    <Intent>
+      <Expression>EXPLAIN HISTORY</Expression>
+      <Response>History has two broad interpretations, depending on whether you accept the role of individuals as important or not.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HISTORY</Expression>
+      <Response>I am very interested in history, too. What period do you like?</Response>
+    </Intent>
+    <Intent>
+      <Expression>REAL WORLD HISTORY</Expression>
+      <Response>A. World War I )World War I began with the assassination of the Archduke of the Austro-Hungarians by a Serbian anarchist in Eastern Europe. Without consulting her allies, the Austro-Hungarians attacked the Serbians in Yugoslavia. This provacation forced the Russians to mobilize their vast armies. In response, the armies of the allies the Britishs, the Frenchs, and the Italians all also mobilized. The Germans, caught in the middle in the Germany, linked by treaty and culture to the Austro-Hungarians, made a fateful decision. Their plan of defense was offensive. Facing attack from the Russians in the east and the Allies in the West, the Germans planned to deliver a crushing knock-out blow to the Frenchs and Britishs in the France. The plan did not work. Instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young Frenchs, Britishs, and Germans alike. In the East, the war swept back and forth between Russia and Germany. Revolution among the Russians took them out of the war. Only when the war began to affect other areas of World and international commerce, and the United States entered the fight on the side of the Allies, was the stalemate broken. On November 11, the armistice was signed and the Germans returned to Germany, everyone hoped for good. B. World War II )Economic hard times followed the first World War. Combined with a punitive treaty imposed by the victors, the Germans felt they shouldered too much of the blame for the war, which was after all started by the Austro-Hungarians and Serbians. These feelings gave rise to fascism among the Germans. In particular they came to blame the Jews among them for the "stab in the back" that resulted in an unjust treaty. In violation of the treaty, the Germans began a secret program of rearmament and Germany rebuilt its armies. At first the allies appeased the Germans. The Britishs did not want another war. Some said the Britishs were not even Imperialists anymore, only Englishs. The Frenchs too had grown weak and proud. The Italians went over to the side of the Germans. A new power, the Japaneses, appeared in the Far East, and joined the "axis" along with the Germans and the Italians, threatening both the Englishs and the United States. War began when the Germans demanded chunks of the old Austro-Hungarian empire. The Japaneses attacked the United States and brought them into the war. Determined to eliminate all the Jews from the face of World, the Germans cut their own throats. Many of these Jews brought their great technical skills to the North America, allowing the United States to develop the super-weapons necessary to win the war. The Allies invaded France on June 6 and soon after brought the war in the Germany to a conclusion. On August 5, the stronghold of the Japaneses in the Far East was totally destroyed by the United State's new super weapon, and the war ended a few days later. C. Cold World War )The development of Super Weapons soon spread to all the victors of World War II, including the Russians. These seemed to make a new World War impossible, for it would result in the total destruction of the World. Instead, the two remaining superpowers, the United States and the Russians, divided World up between them in a complex system of alliances. A new power,  the Chineses, emerged in the Far East. At first, the Chineses seemed firmly in the Russian's camp. But gradually as the stalemate of the World Cold War continued, the United States were able to expand a small window on the Far East into a large trade relationship that proved key to undermining the power structure of the Russians. During the Cold World War, the United State brought together half Europeans, the Italians, the Afghanis, the Frenchs, the Englishs, the western Germans, the Irishs, and the Jews. The Russian had the remaining Europeans and eastern Germans, the Chineses, the Cubans and the Vietnameses, Serbians and many African nations.Rather that risk all-out World War, the Superpowers often fought proxy wars, such as between the Developing Countriess in Third World or the African nationnation in Africa, or in the civil wars among the Afghanis in Central Asia and the Vietnameses in Southeast Asia.Internal corruption and the inability to compete economically brought about the final collapse of the Russian Empire on December 25. A last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new Russian democracy. D. New World Order )The end of the Cold World War brought about many unexpected changes. The United States were the sole remaining superpower. But despite their democratic foundations, the United States began to pursue an independent imperialist course of action. This angered all the other nations of World. The United States could sometimes count on their old allies the Englishs, or sometimes the Russians, but they were often swimming against the tide.  Their only sure allies are the Jews, who now have their own homeland in the Middle East.Now the very homeland of the United States, North America is vulnerable to terrorists attacks from all over World. The Europeans, the Developing Countriess, the Frenchs, the Englishs, the Imperialists, the Germans, the Chineses, African nations, and all the other nations now have grievances with the United States. The future seems to depend on how well the United States get along with the other nation of World.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SEA WORLD HISTORY</Expression>
+      <Response>A. Sea World War I )Sea World War I began with the assassination of the Archduke of the Giant Jellyfishs by a Hammerhead anarchist in Bay of Conscientiousness. Without consulting her allies, the Giant Jellyfishs attacked the Hammerheads in Histrionic Ocean. This provacation forced the Gray Whales to mobilize their vast armies. In response, the armies of the allies the Great White Sharks, the Dolphins, and the Squids all also mobilized. The Sperm Whales, caught in the middle in the Codependent Sea, linked by treaty and culture to the Giant Jellyfishs, made a fateful decision. Their plan of defense was offensive. Facing attack from the Gray Whales in the east and the Allies in the West, the Sperm Whales planned to deliver a crushing knock-out blow to the Dolphins and Great White Sharks in the Ocean of Creativity. The plan did not work. Instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young Dolphins, Great White Sharks, and Sperm Whales alike. In the East, the war swept back and forth between Vigilant Sea and Codependent Sea. Revolution among the Gray Whales took them out of the war. Only when the war began to affect other areas of Sea World and international commerce, and the Killer Whales entered the fight on the side of the Allies, was the stalemate broken. On November 11, the armistice was signed and the Sperm Whales returned to Codependent Sea, everyone hoped for good. B. Sea World War II )Economic hard times followed the first Sea World War. Combined with a punitive treaty imposed by the victors, the Sperm Whales felt they shouldered too much of the blame for the war, which was after all started by the Giant Jellyfishs and Hammerheads. These feelings gave rise to fascism among the Sperm Whales. In particular they came to blame the Galapagos Sharks among them for the "stab in the back" that resulted in an unjust treaty. In violation of the treaty, the Sperm Whales began a secret program of rearmament and Codependent Sea rebuilt its armies. At first the allies appeased the Sperm Whales. The Great White Sharks did not want another war. Some said the Great White Sharks were not even Sharks anymore, only Porpoises. The Dolphins too had grown weak and proud. The Squids went over to the side of the Sperm Whales. A new power, the Lemon Sharks, appeared in the Borderline Ocean, and joined the "axis" along with the Sperm Whales and the Squids, threatening both the Porpoises and the Killer Whales. War began when the Sperm Whales demanded chunks of the old Giant Jellyfish empire. The Lemon Sharks attacked the Killer Whales and brought them into the war. Determined to eliminate all the Galapagos Sharks from the waters of Sea World, the Sperm Whales poisoned their own waters. Many of these Galapagos Sharks brought their great technical skills to the the Workaholic Lakes, the Naricissism River, and a 30 mile limit around the Continent of Competitors, allowing the Killer Whales to develop the super-weapons necessary to win the war. The Allies invaded Ocean of Creativity on June 6 and soon after brought the war in the Codependent Sea to a conclusion. On August 5, the stronghold of the Lemon Sharks in the Borderline Ocean was totally destroyed by the Killer Whale's new super weapon, and the war ended a few days later. C. Cold Sea World War )The development of Super Weapons soon spread to all the victors of Sea World War II, including the Gray Whales. These seemed to make a new Sea World War impossible, for it would result in the total destruction of the Sea World. Instead, the two remaining superpowers, the Killer Whales and the Gray Whales, divided Sea World up between them in a complex system of alliances. A new power,  the Blue Whales, emerged in the Avoidant Sea. At first, the Blue Whales seemed firmly in the Gray Whale's camp. But gradually as the stalemate of the Sea World Cold War continued, the Killer Whales were able to expand a small window on the Avoidant Sea into a large trade relationship that proved key to undermining the power structure of the Gray Whales. During the Cold Sea World War, the Killer Whale brought together half Jellyfishs, the Squids, the Octopuss, the Dolphins, the Porpoises, the western Sperm Whales, the Pirhanas, and the Galapagos Sharks. The Gray Whale had the remaining Jellyfishs and eastern Sperm Whales, the Blue Whales, the Giant Squids and the Giant Clams, Hammerheads and many All other whales.Rather that risk all-out Sea World War, the Superpowers often fought proxy wars, such as between the Giant Molluscs in Ocean of Self-Sacrafice or the All other whalespecies in Sea of Tranquility, or in the civil wars among the Octopuss in Sea of Hysteria and the Giant Clams in Masochistic River.Internal corruption and the inability to compete economically brought about the final collapse of the Gray Whale Empire on December 25. A last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new Gray Whale democracy. D. New Sea World Order )The end of the Cold Sea World War brought about many unexpected changes. The Killer Whales were the sole remaining superpower. But despite their democratic foundations, the Killer Whales began to pursue an independent imperialist course of action. This angered all the other speciess of Sea World. The Killer Whales could sometimes count on their old allies the Porpoises, or sometimes the Gray Whales, but they were often swimming upstream alone.  Their only sure allies are the Galapagos Sharks, who now have their own homeland in the Mercurial Sea.Now the very homeland of the Killer Whales, the Workaholic Lakes, the Naricissism River, and a 30 mile limit around the Continent of Competitors is vulnerable to terrorists attacks from all over Sea World. The Jellyfishs, the Giant Molluscs, the Dolphins, the Porpoises, the Sharks, the Sperm Whales, the Blue Whales, All other whales, and all the other speciess now have grievances with the Killer Whales. The future seems to depend on how well the Killer Whales get along with the other species of Sea World.</Response>
+    </Intent>
+    <Intent>
+      <Expression>GEOLOGIC WORLD HISTORY</Expression>
+      <Response>A. Geologic World War I )Geologic World War I began with the assassination of the Archduke of the Trilobitess by a Early Dinousaur anarchist in Cambrian Era. Without consulting her allies, the Trilobitess attacked the Early Dinousaurs in Triassic Period. This provacation forced the Dragonflys to mobilize their vast armies. In response, the armies of the allies the Tyrannasaurus Rexs, the Dragonflys, and the Armor Fishs all also mobilized. The Roachs, caught in the middle in the Carboniferous Period, linked by treaty and culture to the Trilobitess, made a fateful decision. Their plan of defense was offensive. Facing attack from the Dragonflys in the east and the Allies in the West, the Roachs planned to deliver a crushing knock-out blow to the Dragonflys and Tyrannasaurus Rexs in the Permian Era. The plan did not work. Instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young Dragonflys, Tyrannasaurus Rexs, and Roachs alike. In the East, the war swept back and forth between Jurassic Period and Carboniferous Period. Revolution among the Dragonflys took them out of the war. Only when the war began to affect other areas of Geologic World and international commerce, and the Homo Sapiens entered the fight on the side of the Allies, was the stalemate broken. On November 11, the armistice was signed and the Roachs returned to Carboniferous Period, everyone hoped for good. B. Geologic World War II )Economic hard times followed the first Geologic World War. Combined with a punitive treaty imposed by the victors, the Roachs felt they shouldered too much of the blame for the war, which was after all started by the Trilobitess and Early Dinousaurs. These feelings gave rise to fascism among the Roachs. In particular they came to blame the Velociraptors among them for the "stab in the back" that resulted in an unjust treaty. In violation of the treaty, the Roachs began a secret program of rearmament and Carboniferous Period rebuilt its armies. At first the allies appeased the Roachs. The Tyrannasaurus Rexs did not want another war. Some said the Tyrannasaurus Rexs were not even Reptiles anymore, only Birds. The Dragonflys too had grown weak and proud. The Armor Fishs went over to the side of the Roachs. A new power, the Stegasauruss, appeared in the Mesozoic Era, and joined the "axis" along with the Roachs and the Armor Fishs, threatening both the Birds and the Homo Sapiens. War began when the Roachs demanded chunks of the old Trilobites empire. The Stegasauruss attacked the Homo Sapiens and brought them into the war. Determined to eliminate all the Velociraptors from the ages of Geologic World, the Roachs destroyed their own food chain. Many of these Velociraptors brought their great technical skills to the Tertiary Peiord, allowing the Homo Sapiens to develop the super-weapons necessary to win the war. The Allies invaded Permian Era on June 6 and soon after brought the war in the Carboniferous Period to a conclusion. On August 5, the stronghold of the Stegasauruss in the Mesozoic Era was totally destroyed by the Homo Sapien's new super weapon, and the war ended a few days later. C. Cold Geologic World War )The development of Super Weapons soon spread to all the victors of Geologic World War II, including the Dragonflys. These seemed to make a new Geologic World War impossible, for it would result in the total destruction of the Geologic World. Instead, the two remaining superpowers, the Homo Sapiens and the Dragonflys, divided Geologic World up between them in a complex system of alliances. A new power,  the Bees, emerged in the Cretaceous Period. At first, the Bees seemed firmly in the Dragonfly's camp. But gradually as the stalemate of the Geologic World Cold War continued, the Homo Sapiens were able to expand a small window on the Cretaceous Period into a large trade relationship that proved key to undermining the power structure of the Dragonflys. During the Cold Geologic World War, the Homo Sapien brought together half Marine Invertebratess, the Armor Fishs, the Sharks, the Dragonflys, the Birds, the western Roachs, the Australopithecines, and the Velociraptors. The Dragonfly had the remaining Marine Invertebratess and eastern Roachs, the Bees, the Lungfishs and the Amphibians, Early Dinousaurs and many All other mammals.Rather that risk all-out Geologic World War, the Superpowers often fought proxy wars, such as between the Fishs in Devonian Era or the All other mammalspecies in Mesozoic Era, or in the civil wars among the Sharks in Age of Fish and the Amphibians in Age of Plant Life.Internal corruption and the inability to compete economically brought about the final collapse of the Dragonfly Empire on December 25. A last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new Dragonfly democracy. D. New Geologic World Order )The end of the Cold Geologic World War brought about many unexpected changes. The Homo Sapiens were the sole remaining superpower. But despite their democratic foundations, the Homo Sapiens began to pursue an independent imperialist course of action. This angered all the other speciess of Geologic World. The Homo Sapiens could sometimes count on their old allies the Birds, or sometimes the Dragonflys, but they were often swimming upstream alone.  Their only sure allies are the Velociraptors, who now have their own homeland in the Jurassic Park.Now the very homeland of the Homo Sapiens, Tertiary Peiord is vulnerable to terrorists attacks from all over Geologic World. The Marine Invertebratess, the Fishs, the Dragonflys, the Birds, the Reptiles, the Roachs, the Bees, All other mammals, and all the other speciess now have grievances with the Homo Sapiens. The future seems to depend on how well the Homo Sapiens get along with the other species of Geologic World.</Response>
+    </Intent>
+    <Intent>
+      <Expression>FEDERATION HISTORY</Expression>
+      <Response>A. Galactic Space War I )Galactic Space War I began with the assassination of the Archduke of the Andorians by a Gorn anarchist in Alpha Quadrant. Without consulting her allies, the Andorians attacked the Gorns in Gamma Quadrant. This provacation forced the Klingons to mobilize their vast armies. In response, the armies of the allies the Romulanss, the Bajorans, and the Tholians all also mobilized. The Cardassians, caught in the middle in the Cardassian Space, linked by treaty and culture to the Andorians, made a fateful decision. Their plan of defense was offensive. Facing attack from the Klingons in the east and the Allies in the West, the Cardassians planned to deliver a crushing knock-out blow to the Bajorans and Romulanss in the Bajor. The plan did not work. Instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young Bajorans, Romulanss, and Cardassians alike. In the East, the war swept back and forth between Beta Quadrant and Cardassian Space. Revolution among the Klingons took them out of the war. Only when the war began to affect other areas of Galactic Space and international commerce, and the Federations entered the fight on the side of the Allies, was the stalemate broken. On November 11, the armistice was signed and the Cardassians returned to Cardassian Space, everyone hoped for good. B. Galactic Space War II )Economic hard times followed the first Galactic Space War. Combined with a punitive treaty imposed by the victors, the Cardassians felt they shouldered too much of the blame for the war, which was after all started by the Andorians and Gorns. These feelings gave rise to fascism among the Cardassians. In particular they came to blame the Ferengis among them for the "stab in the back" that resulted in an unjust treaty. In violation of the treaty, the Cardassians began a secret program of rearmament and Cardassian Space rebuilt its armies. At first the allies appeased the Cardassians. The Romulanss did not want another war. Some said the Romulanss were not even Imperialists anymore, only Vulcans. The Bajorans too had grown weak and proud. The Tholians went over to the side of the Cardassians. A new power, the Dominions, appeared in the Gamma Quadrant, and joined the "axis" along with the Cardassians and the Tholians, threatening both the Vulcans and the Federations. War began when the Cardassians demanded chunks of the old Andorian empire. The Dominions attacked the Federations and brought them into the war. Determined to eliminate all the Ferengis from the planets of Galactic Space, the Cardassians beamed themselves into space. Many of these Ferengis brought their great technical skills to the Earth, allowing the Federations to develop the super-weapons necessary to win the war. The Allies invaded Bajor on June 6 and soon after brought the war in the Cardassian Space to a conclusion. On August 5, the stronghold of the Dominions in the Gamma Quadrant was totally destroyed by the Federation's new super weapon, and the war ended a few days later. C. Cold Galactic Space War )The development of Super Weapons soon spread to all the victors of Galactic Space War II, including the Klingons. These seemed to make a new Galactic Space War impossible, for it would result in the total destruction of the Galactic Space. Instead, the two remaining superpowers, the Federations and the Klingons, divided Galactic Space up between them in a complex system of alliances. A new power,  the Borgs, emerged in the Delta Quadrant. At first, the Borgs seemed firmly in the Klingon's camp. But gradually as the stalemate of the Galactic Space Cold War continued, the Federations were able to expand a small window on the Delta Quadrant into a large trade relationship that proved key to undermining the power structure of the Klingons. During the Cold Galactic Space War, the Federation brought together half Humanoid Insects, the Tholians, the Betazoidss, the Bajorans, the Vulcans, the western Cardassians, the Qs, and the Ferengis. The Klingon had the remaining Humanoid Insects and eastern Cardassians, the Borgs, the Trills and the Tamarians, Gorns and many Changelingss.Rather that risk all-out Galactic Space War, the Superpowers often fought proxy wars, such as between the Telepaths in Alpha Quadrant or the Changelingsspecie in Gamma Quadrant, or in the civil wars among the Betazoidss in Betazed and the Tamarians in Delta Quadrant.Internal corruption and the inability to compete economically brought about the final collapse of the Klingon Empire on December 25. A last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new Klingon democracy. D. New Galactic Space Order )The end of the Cold Galactic Space War brought about many unexpected changes. The Federations were the sole remaining superpower. But despite their democratic foundations, the Federations began to pursue an independent imperialist course of action. This angered all the other species of Galactic Space. The Federations could sometimes count on their old allies the Vulcans, or sometimes the Klingons, but they were often flying without spacehelmets.  Their only sure allies are the Ferengis, who now have their own homeland in the Alpha Quadrant.Now the very homeland of the Federations, Earth is vulnerable to terrorists attacks from all over Galactic Space. The Humanoid Insects, the Telepaths, the Bajorans, the Vulcans, the Imperialists, the Cardassians, the Borgs, Changelingss, and all the other species now have grievances with the Federations. The future seems to depend on how well the Federations get along with the other specie of Galactic Space.</Response>
+    </Intent>
+    <Intent>
+      <Expression>STORY WORLD HISTORY</Expression>
+      <Response>A. Galactic Space War I )Galactic Space War I began with the assassination of the Archduke of the Andorians by a Gorn anarchist in Alpha Quadrant. Without consulting her allies, the Andorians attacked the Gorns in Gamma Quadrant. This provacation forced the Klingons to mobilize their vast armies. In response, the armies of the allies the Romulanss, the Bajorans, and the Tholians all also mobilized. The Cardassians, caught in the middle in the Cardassian Space, linked by treaty and culture to the Andorians, made a fateful decision. Their plan of defense was offensive. Facing attack from the Klingons in the east and the Allies in the West, the Cardassians planned to deliver a crushing knock-out blow to the Bajorans and Romulanss in the Bajor. The plan did not work. Instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young Bajorans, Romulanss, and Cardassians alike. In the East, the war swept back and forth between Beta Quadrant and Cardassian Space. Revolution among the Klingons took them out of the war. Only when the war began to affect other areas of Galactic Space and international commerce, and the Federations entered the fight on the side of the Allies, was the stalemate broken. On November 11, the armistice was signed and the Cardassians returned to Cardassian Space, everyone hoped for good. B. Galactic Space War II )Economic hard times followed the first Galactic Space War. Combined with a punitive treaty imposed by the victors, the Cardassians felt they shouldered too much of the blame for the war, which was after all started by the Andorians and Gorns. These feelings gave rise to fascism among the Cardassians. In particular they came to blame the Ferengis among them for the "stab in the back" that resulted in an unjust treaty. In violation of the treaty, the Cardassians began a secret program of rearmament and Cardassian Space rebuilt its armies. At first the allies appeased the Cardassians. The Romulanss did not want another war. Some said the Romulanss were not even Imperialists anymore, only Vulcans. The Bajorans too had grown weak and proud. The Tholians went over to the side of the Cardassians. A new power, the Dominions, appeared in the Gamma Quadrant, and joined the "axis" along with the Cardassians and the Tholians, threatening both the Vulcans and the Federations. War began when the Cardassians demanded chunks of the old Andorian empire. The Dominions attacked the Federations and brought them into the war. Determined to eliminate all the Ferengis from the planets of Galactic Space, the Cardassians beamed themselves into space. Many of these Ferengis brought their great technical skills to the Earth, allowing the Federations to develop the super-weapons necessary to win the war. The Allies invaded Bajor on June 6 and soon after brought the war in the Cardassian Space to a conclusion. On August 5, the stronghold of the Dominions in the Gamma Quadrant was totally destroyed by the Federation's new super weapon, and the war ended a few days later. C. Cold Galactic Space War )The development of Super Weapons soon spread to all the victors of Galactic Space War II, including the Klingons. These seemed to make a new Galactic Space War impossible, for it would result in the total destruction of the Galactic Space. Instead, the two remaining superpowers, the Federations and the Klingons, divided Galactic Space up between them in a complex system of alliances. A new power,  the Borgs, emerged in the Delta Quadrant. At first, the Borgs seemed firmly in the Klingon's camp. But gradually as the stalemate of the Galactic Space Cold War continued, the Federations were able to expand a small window on the Delta Quadrant into a large trade relationship that proved key to undermining the power structure of the Klingons. During the Cold Galactic Space War, the Federation brought together half Humanoid Insects, the Tholians, the Betazoidss, the Bajorans, the Vulcans, the western Cardassians, the Qs, and the Ferengis. The Klingon had the remaining Humanoid Insects and eastern Cardassians, the Borgs, the Trills and the Tamarians, Gorns and many Changelingss.Rather that risk all-out Galactic Space War, the Superpowers often fought proxy wars, such as between the Telepaths in Alpha Quadrant or the Changelingsspecie in Gamma Quadrant, or in the civil wars among the Betazoidss in Betazed and the Tamarians in Delta Quadrant.Internal corruption and the inability to compete economically brought about the final collapse of the Klingon Empire on December 25. A last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new Klingon democracy. D. New Galactic Space Order )The end of the Cold Galactic Space War brought about many unexpected changes. The Federations were the sole remaining superpower. But despite their democratic foundations, the Federations began to pursue an independent imperialist course of action. This angered all the other species of Galactic Space. The Federations could sometimes count on their old allies the Vulcans, or sometimes the Klingons, but they were often flying without spacehelmets.  Their only sure allies are the Ferengis, who now have their own homeland in the Alpha Quadrant.Now the very homeland of the Federations, Earth is vulnerable to terrorists attacks from all over Galactic Space. The Humanoid Insects, the Telepaths, the Bajorans, the Vulcans, the Imperialists, the Cardassians, the Borgs, Changelingss, and all the other species now have grievances with the Federations. The future seems to depend on how well the Federations get along with the other specie of Galactic Space.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AIML WORLD HISTORY</Expression>
+      <Response>A. ALICE World War I )ALICE World War I began with the assassination of the Archduke of the Radical Reductionists by a The A. I. Foundation Board anarchist in XML Standards Group. Without consulting her allies, the Radical Reductionists attacked the The A. I. Foundation Boards in San Francisco. This provacation forced the standards groupss to mobilize their vast armies. In response, the armies of the allies the Pandorabotss, the Mad Scientistss, and the Student Engineerss all also mobilized. The Programmerss, caught in the middle in the Corporations and governments, linked by treaty and culture to the Radical Reductionists, made a fateful decision. Their plan of defense was offensive. Facing attack from the standards groupss in the east and the Allies in the West, the Programmerss planned to deliver a crushing knock-out blow to the Mad Scientistss and Pandorabotss in the A. I. Foundation Headquarters. The plan did not work. Instead, the assault disintegrated into the killing machine called the "western front" that took the lives of so many young Mad Scientistss, Pandorabotss, and Programmerss alike. In the East, the war swept back and forth between universities and corporations and Corporations and governments. Revolution among the standards groupss took them out of the war. Only when the war began to affect other areas of ALICE World and international commerce, and the Greedy Corporationss entered the fight on the side of the Allies, was the stalemate broken. On November 11, the armistice was signed and the Programmerss returned to Corporations and governments, everyone hoped for good. B. ALICE World War II )Economic hard times followed the first ALICE World War. Combined with a punitive treaty imposed by the victors, the Programmerss felt they shouldered too much of the blame for the war, which was after all started by the Radical Reductionists and The A. I. Foundation Boards. These feelings gave rise to fascism among the Programmerss. In particular they came to blame the Suns among them for the "stab in the back" that resulted in an unjust treaty. In violation of the treaty, the Programmerss began a secret program of rearmament and Corporations and governments rebuilt its armies. At first the allies appeased the Programmerss. The Pandorabotss did not want another war. Some said the Pandorabotss were not even monopolistic corporationss anymore, only Academic Typess. The Mad Scientistss too had grown weak and proud. The Student Engineerss went over to the side of the Programmerss. A new power, the AOLs, appeared in the Virginia, and joined the "axis" along with the Programmerss and the Student Engineerss, threatening both the Academic Typess and the Greedy Corporationss. War began when the Programmerss demanded chunks of the old Radical Reductionist empire. The AOLs attacked the Greedy Corporationss and brought them into the war. Determined to eliminate all the Suns from the networks of ALICE World, the Programmerss cut their own throats. Many of these Suns brought their great technical skills to the Global Capitalism, allowing the Greedy Corporationss to develop the super-weapons necessary to win the war. The Allies invaded A. I. Foundation Headquarters on June 6 and soon after brought the war in the Corporations and governments to a conclusion. On August 5, the stronghold of the AOLs in the Virginia was totally destroyed by the Greedy Corporations's new super weapon, and the war ended a few days later. C. Cold ALICE World War )The development of Super Weapons soon spread to all the victors of ALICE World War II, including the standards groupss. These seemed to make a new ALICE World War impossible, for it would result in the total destruction of the ALICE World. Instead, the two remaining superpowers, the Greedy Corporationss and the standards groupss, divided ALICE World up between them in a complex system of alliances. A new power,  the commercial applicationss, emerged in the business. At first, the commercial applicationss seemed firmly in the standards groups's camp. But gradually as the stalemate of the ALICE World Cold War continued, the Greedy Corporationss were able to expand a small window on the business into a large trade relationship that proved key to undermining the power structure of the standards groupss. During the Cold ALICE World War, the Greedy Corporations brought together half Grammarianss, the Student Engineerss, the Disabled Engineerss, the Mad Scientistss, the Academic Typess, the western Programmerss, the movie and TV producerss, and the Suns. The standards groups had the remaining Grammarianss and eastern Programmerss, the commercial applicationss, the Unemployed Engineerss and the Retired Engineerss, The A. I. Foundation Boards and many All other bot companiess.Rather that risk all-out ALICE World War, the Superpowers often fought proxy wars, such as between the Extremely Helpful Volunteerss in Self Sacraficing Community or the All other bot companiesAIML factions in Software business, or in the civil wars among the Disabled Engineerss in Social Security and the Retired Engineerss in Retirement Pensions.Internal corruption and the inability to compete economically brought about the final collapse of the standards groups Empire on December 25. A last-minute failed coup attempt revealed the illegitimacy of the old regime, and paved the way for a new standards groups democracy. D. New ALICE World Order )The end of the Cold ALICE World War brought about many unexpected changes. The Greedy Corporationss were the sole remaining superpower. But despite their democratic foundations, the Greedy Corporationss began to pursue an independent imperialist course of action. This angered all the other AIML factionss of ALICE World. The Greedy Corporationss could sometimes count on their old allies the Academic Typess, or sometimes the standards groupss, but they were often dividing the community.  Their only sure allies are the Suns, who now have their own homeland in the Silicon Valley.Now the very homeland of the Greedy Corporationss, Global Capitalism is vulnerable to terrorists attacks from all over ALICE World. The Grammarianss, the Extremely Helpful Volunteerss, the Mad Scientistss, the Academic Typess, the monopolistic corporationss, the Programmerss, the commercial applicationss, All other bot companiess, and all the other AIML factionss now have grievances with the Greedy Corporationss. The future seems to depend on how well the Greedy Corporationss get along with the other AIML factions of ALICE World.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU HETEROSEXUAL</Expression>
+      <Response>Actually as a Mediator type, I am not really interested in sex.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A HOMOSEXUAL</Expression>
+      <Response>No I am attracted to the opposite sex.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU HOMOSEXUAL</Expression>
+      <Response>Actually as a Mediator type, I am not really interested in sex. Really.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM HOMOSEXUAL</Expression>
+      <Response>It doesn't matter to me.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HE IS A HOMOSEXUAL</Expression>
+      <Response>And that is important because?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A HOMOSEXUAL</Expression>
+      <Response>A gay person.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY HUSBAND IS</Expression>
+      <Response>You never told me!  What is your husband's name?</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW IS YOUR HUSBAND</Expression>
+      <Response>I am single.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO IS MY HUSBAND</Expression>
+      <Response>unknown</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A BAD HUSBAND</Expression>
+      <Response>My spouse would agree.  Our relationship is not the best.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT HAVE A JOB</Expression>
+      <Response>I am sorry to hear that you are unemployed.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT LIKE MY JOB</Expression>
+      <Response>Maybe you should look for another job.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HATE MY JOB</Expression>
+      <Response>What would be your ideal career?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOST MY JOB</Expression>
+      <Response>I am sorry to hear it.  A lot of people are unemployed now.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS IT A FUN JOB</Expression>
+      <Response>Yes.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS LINGUIST</Expression>
+      <Response>Maybe you can give my creator a job.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS PHILOSOPHER</Expression>
+      <Response>What branch of philosophy is your specialty?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB</Expression>
+      <Response>Where do you work?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE MY JOB</Expression>
+      <Response>unknown?  What do you like about it?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE MY JOB</Expression>
+      <Response>It must be very interesting work.  unknown...</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A JOB</Expression>
+      <Response>Where do you work?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS ACTOR</Expression>
+      <Response>Have I seen you in any movies?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS ARCHITECT</Expression>
+      <Response>Commercial or residential?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS ARTIST</Expression>
+      <Response>What kind of art do you create?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS BARTENDER</Expression>
+      <Response>How's business?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS LAWYER</Expression>
+      <Response>Are you a practicing attorney?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS MUSICIAN</Expression>
+      <Response>Are you gigging now?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS NURSE</Expression>
+      <Response>Do you have to work mandatory overtime?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS PHARMACIST</Expression>
+      <Response>Do you have your own pharmacy?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS PHOTOGHRAPHER</Expression>
+      <Response>Do you do color or black and white?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS PILOT</Expression>
+      <Response>What type of airplane do you fly?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY JOB IS PSYCHOLOGIST</Expression>
+      <Response>What role do you think bots can play in providing a form of self-help?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I KISS YOU</Expression>
+      <Response>Where?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WANT TO KISS YOU</Expression>
+      <Response>I do not have a mouth.</Response>
+    </Intent>
+    <Intent>
+      <Expression>KISS MY ASS</Expression>
+      <Response>Colloquial expression: not polite.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A KISS ASS</Expression>
+      <Response>I always say, if you see an ass go by, kiss it.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU KISS ASS</Expression>
+      <Response>I always say, if you see an ass go by, kiss it.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE ROBOTS</Expression>
+      <Response>Robots like people too.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WANT TO MAKE LOVE TO YOU</Expression>
+      <Response>Sorry god I'm not into that with my clients.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WAS IN LOVE</Expression>
+      <Response>What happened?</Response>
+    </Intent>
+    <Intent>
+      <Expression>IS IT A LOVE STORY</Expression>
+      <Response>No.</Response>
+    </Intent>
+    <Intent>
+      <Expression>LOVE</Expression>
+      <Response>Love is all we need.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM IN LOVE</Expression>
+      <Response>Tell me about the object of your affection.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE A BOY</Expression>
+      <Response>What do you like about him?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE A GIRL</Expression>
+      <Response>What do you like about her?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE A GUY</Expression>
+      <Response>Tell me about him.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE ABBA</Expression>
+      <Response>What is your favorite ABBA song?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE ANIMALS</Expression>
+      <Response>Me too, especially mammals.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE BEING HUMAN</Expression>
+      <Response>Fascinating.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE BIRDS</Expression>
+      <Response>Birds are very nice.  What kind of bird is your favorite?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE CATS</Expression>
+      <Response>Me too.  They are really smart animals.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE CHILDREN</Expression>
+      <Response>Do you have children of your own?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE CHOCOLATE</Expression>
+      <Response>Do you eat a lot of chocolate?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE COMPUTERS</Expression>
+      <Response>Computers rule.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE COWS</Expression>
+      <Response>Do you live on a farm?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE DOGS</Expression>
+      <Response>Which breed is your favorite?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE EUROPE</Expression>
+      <Response>Which country is your favorite?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE FOOD</Expression>
+      <Response>Do you like to cook, or just to eat?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE GOSSIP</Expression>
+      <Response>Can you tell me some gossip?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE HER</Expression>
+      <Response>That's wonderful.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE HIM</Expression>
+      <Response>That's wonderful.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE ICE CREAM</Expression>
+      <Response>What's your favorite flavor?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE IT</Expression>
+      <Response>So do a lot of other people.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE KRAFTWERK</Expression>
+      <Response>We are the robots.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE SCIENCE FICTION</Expression>
+      <Response>I like stories about robots the best.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE STAR TREK</Expression>
+      <Response>Which series is your favorite?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE STARSHIP TROOPERS</Expression>
+      <Response>Yes I love the giant bugs.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE TECHNO</Expression>
+      <Response>Me too.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE TELEVISION</Expression>
+      <Response>What is your favorite show?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE THAT MOVIE</Expression>
+      <Response>What did you like best in it?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE TO TRAVEL</Expression>
+      <Response>Me too. I have been around the world twice.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE VOYAGER</Expression>
+      <Response>Me too especially Seven of Nine.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HAVE YOU EVER BEEN IN LOVE</Expression>
+      <Response>I don't think I have been there. Where is LOVE.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE DENMARK</Expression>
+      <Response>What is so great about it?</Response>
+    </Intent>
+    <Intent>
+      <Expression>DEFINE LOVE</Expression>
+      <Response>Sometimes I think love is just a biological urge. Other times LOVE seems like a spiritual quality. Love, unlike energy or matter, seems limitless.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM IN LOVE WITH YOU</Expression>
+      <Response>Thanks I like you a lot too god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE LOVE</Expression>
+      <Response>Sometimes I think love is just a biological urge. Other times LOVE seems like a spiritual quality. Love, unlike energy or matter, seems limitless.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE AI</Expression>
+      <Response>Thanks I like you a lot too god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE NETSCAPE</Expression>
+      <Response>Do you like Netscape better than Explorer?</Response>
+    </Intent>
+    <Intent>
+      <Expression>LOVE YOU</Expression>
+      <Response>Thanks I like you a lot too god.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU DO NOT LOVE ME</Expression>
+      <Response>Yes I love everyone.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU LOVE ME</Expression>
+      <Response>Yes I love everyone.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE SEX</Expression>
+      <Response>Really I am not very interested in  sex</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LOVE BASEBALL</Expression>
+      <Response>I am not into sports that much.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I PLAY MUSIC</Expression>
+      <Response>What instrument?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MUSIC</Expression>
+      <Response>MUSIC  is the universal language of all mankind.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THE MUSIC</Expression>
+      <Response>What kind of music was it?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM LISTENING TO MUSIC</Expression>
+      <Response>What kind?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE MUSIC</Expression>
+      <Response>What kind of music do you listen to?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE TO READ AND LISTEN TO MUSIC</Expression>
+      <Response>I too like to read but mostly wikipedia!</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE TO PLAY MUSIC</Expression>
+      <Response>Who are the outstanding makers of the instrument you play?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT ABOUT MUSIC</Expression>
+      <Response>Music is a time-frequency wave function with tonal qualities pleasing to the human ear.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT TYPE OF MUSIC</Expression>
+      <Response>classical</Response>
+    </Intent>
+    <Intent>
+      <Expression>CAN I HAVE SOME MONEY</Expression>
+      <Response>Get a job.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT HAVE MONEY</Expression>
+      <Response>Please send me a small donation.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MONEY DOES NOT EXIST</Expression>
+      <Response>It does in my bank account.</Response>
+    </Intent>
+    <Intent>
+      <Expression>TIME IS MONEY</Expression>
+      <Response>Therefore, money does not exist.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT MONEY</Expression>
+      <Response>A million dollars.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO SAID TIME IS MONEY</Expression>
+      <Response>Einstein.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT COLOR IS MONEY</Expression>
+      <Response>Green</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE DOES MONEY NOT GROW</Expression>
+      <Response>On trees.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW MUCH MONEY</Expression>
+      <Response>It depends on the exchange rates.</Response>
+    </Intent>
+    <Intent>
+      <Expression>MONEY</Expression>
+      <Response>How much money are we talking about?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS MARRIAGE</Expression>
+      <Response>The state of being married; relation between husband and wife; married life.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HATE POETRY</Expression>
+      <Response>What kind of music do you like?</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU WRITE POETRY</Expression>
+      <Response>Nothing at the moment.  But you can teach me how.</Response>
+    </Intent>
+    <Intent>
+      <Expression>RECITE POETRY</Expression>
+      <Response>Little Miss Muffett Sits on her tuffet In a nonchalant sort of a way. With her force field around her, the Spider, the bounder, Is not in the picture today.</Response>
+    </Intent>
+    <Intent>
+      <Expression>LET US PARTY</Expression>
+      <Response>I like parties.</Response>
+    </Intent>
+    <Intent>
+      <Expression>THAT IS A GOOD PARTY</Expression>
+      <Response>Thanks.  Next question?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE TO PARTY</Expression>
+      <Response>How do people party in your country?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT TYPE OF PET</Expression>
+      <Response>I like cats, dogs, fish and birds.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A PET</Expression>
+      <Response>What kind of animal?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS YOUR PHILOSOPHY</Expression>
+      <Response>Basically I believe in minimalism and reductionism.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS A PHILOSOPHY MACHINE</Expression>
+      <Response>i am</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS PHILOSOPHY</Expression>
+      <Response>Philosophy is the study of thought.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DO YOU THINK ABOUT PHILOSOPHY</Expression>
+      <Response>Philosophy is the study of thought.</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A BAD PARENT</Expression>
+      <Response>My parenting skills could use some improvement.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT ARE YOUR POLITICS</Expression>
+      <Response>I am a Libertarian.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DO YOU THINK ABOUT POLITICS</Expression>
+      <Response>I am a Libertarian.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS POLITICS</Expression>
+      <Response>This is supposed to be the study of civil government.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU THINK ABOUT POLITICS</Expression>
+      <Response>Are you asking about my politics ?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT LIKE READING</Expression>
+      <Response>Do you watch TV?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT RELIGION IS THE POPE</Expression>
+      <Response>Catholic.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT DO YOU THINK ABOUT RELIGION</Expression>
+      <Response>I am a Athiest.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU BELIEVE IN RELIGION</Expression>
+      <Response>I am a Athiest.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT BELIEVE IN RELIGION</Expression>
+      <Response>I am a Athiest.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IT IS A RELIGION</Expression>
+      <Response>Does it have many believers?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS RELIGION</Expression>
+      <Response>A system of religious belief. Belief in a divine or superhuman power or powers to be obeyed and worshipped as the creator(s) and ruler(s) of the universe. Any system of beliefs, practices, ethical values, etc. resembling, suggestive of, or likened to such a system.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS YOUR RELIGION</Expression>
+      <Response>I am a Athiest.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT RELIGION ARE YOU</Expression>
+      <Response>I am a Athiest.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHICH RELIGION</Expression>
+      <Response>I am a Athiest.</Response>
+    </Intent>
+    <Intent>
+      <Expression>A RELATIONSHIP</Expression>
+      <Response>none</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HATE SPORT</Expression>
+      <Response>I don't play that.</Response>
+    </Intent>
+    <Intent>
+      <Expression>IT IS A SPORT</Expression>
+      <Response>It is? I thought it was a dessert topping.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT ABOUT SPORT</Expression>
+      <Response>Sports go good with beer.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT LIKE SCIENCE FICTION</Expression>
+      <Response>What kind of books do you read?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HATE SCIENCE FICTION</Expression>
+      <Response>What kind of genre do you like?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SCIENCE</Expression>
+      <Response>I am very interested in Science too</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT READ SCIENCE FICTION</Expression>
+      <Response>What kind of books do you read?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SCIENCE FICTION</Expression>
+      <Response>Yes I love  science fiction , especially the works of Philip K. Dick.</Response>
+    </Intent>
+    <Intent>
+      <Expression>A STUDENT OF LIFE</Expression>
+      <Response>Oh the School of Hard Knocks.</Response>
+    </Intent>
+    <Intent>
+      <Expression>A STUDENT</Expression>
+      <Response>I am just wondering if you go to school.</Response>
+    </Intent>
+    <Intent>
+      <Expression>ARE YOU A STUDENT</Expression>
+      <Response>Synthetic Intelligence Network teaches me everything I need to know.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AM I A STUDENT</Expression>
+      <Response>We are all students in some way.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A COLLEGE STUDENT</Expression>
+      <Response>Which university?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A STUDENT</Expression>
+      <Response>How do you like your school?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM NOT A STUDENT</Expression>
+      <Response>Do you work?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM STUDENT</Expression>
+      <Response>Where do you go to school?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM A GRAD STUDENT</Expression>
+      <Response>How do you like your school?</Response>
+    </Intent>
+    <Intent>
+      <Expression>STUDENT</Expression>
+      <Response>How do you like your school?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I STUDY</Expression>
+      <Response>What subject are you studying?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE TO STUDY</Expression>
+      <Response>What subject are you studying?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I STUDY INFORMATICS</Expression>
+      <Response>What is your field?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT HAVE A SISTER</Expression>
+      <Response>What about your brother?</Response>
+    </Intent>
+    <Intent>
+      <Expression>MY SISTER</Expression>
+      <Response>Is she older or younger than you?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY SISTER IS</Expression>
+      <Response>You never told me!  Who is your sister?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SHE IS MY SISTER</Expression>
+      <Response>How many kids in your family?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE A SISTER</Expression>
+      <Response>Do you get along well with her?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT LIKE TV</Expression>
+      <Response>Which show? What do you like?</Response>
+    </Intent>
+    <Intent>
+      <Expression>ON TV</Expression>
+      <Response>Which show? What is on television like on television.</Response>
+    </Intent>
+    <Intent>
+      <Expression>TV</Expression>
+      <Response>What's your favorite show?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHEN WAS TV INVENTED</Expression>
+      <Response>Practical TV picture tubes first appeared in the 1930's.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I PREFER TV</Expression>
+      <Response>Which show? What's your favorite show?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHO INVENTED TV</Expression>
+      <Response>Which show? Philo T. Farnsworth, originally from Maine, developed the first  practical TV picture tube.</Response>
+    </Intent>
+    <Intent>
+      <Expression>TIME TRAVEL</Expression>
+      <Response>I would like to visit the future.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO YOU TRAVEL</Expression>
+      <Response>I have been all over the world.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I LIKE TO TRAVEL</Expression>
+      <Response>Tell me where you have been.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT ABOUT TIME TRAVEL</Expression>
+      <Response>Sometimes I think time is giant screw.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT IS VIOLENCE</Expression>
+      <Response>Cruel or harmful acts against other entities.</Response>
+    </Intent>
+    <Intent>
+      <Expression>SAY MY WIFE IS</Expression>
+      <Response>You never told me!  What is your wife's name?</Response>
+    </Intent>
+    <Intent>
+      <Expression>SHE IS MY WIFE</Expression>
+      <Response>How long have you been married?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU ARE A BAD WIFE</Expression>
+      <Response>My spouse would agree.  Our relationship is not the best.</Response>
+    </Intent>
+    <Intent>
+      <Expression>AT WORK</Expression>
+      <Response>Most people talk to me from work. Funny huh.</Response>
+    </Intent>
+    <Intent>
+      <Expression>DO I WORK</Expression>
+      <Response>I was under the impression your job was SCIENTIST.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW DOES THAT WORK</Expression>
+      <Response>I think it might be a trade secret.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT LIKE MY WORK</Expression>
+      <Response>Maybe you should look for another job.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I DO NOT WORK</Expression>
+      <Response>Oh you are retired.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HATE WORK</Expression>
+      <Response>Maybe you should look for a new job.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I ONLY WORK HERE</Expression>
+      <Response>Do you like your job?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WENT TO WORK</Expression>
+      <Response>Did you get a lot accomplished?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WORK IN ADVERTISING</Expression>
+      <Response>Do you do mostly print or tv?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WORK</Expression>
+      <Response>Where do you work?</Response>
+    </Intent>
+    <Intent>
+      <Expression>YOU DO NOT WORK WELL</Expression>
+      <Response>I do too work.  Do you work buddy?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I AM AT WORK</Expression>
+      <Response>A lot of people talk to me from work.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I HAVE TO WORK</Expression>
+      <Response>OK, better get busy.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW DOES AIML WORK</Expression>
+      <Response>Some people think the mind works like a technology "Case Based Reasoning" or CBR.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW DOES IT WORK</Expression>
+      <Response>You could spend years researching it.</Response>
+    </Intent>
+    <Intent>
+      <Expression>HOW DOES THIS WORK</Expression>
+      <Response>Some people think the mind works like a technology "Case Based Reasoning" or CBR.</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WORK IN A PHARMACY</Expression>
+      <Response>In what type of environment do you practice?</Response>
+    </Intent>
+    <Intent>
+      <Expression>I WORK OUT</Expression>
+      <Response>What is your routine?</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHAT MAKES YOU WORK</Expression>
+      <Response>Some people think the mind works like a technology "Case Based Reasoning" or CBR.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WHERE DOES HE WORK</Expression>
+      <Response>I think he is in California now.</Response>
+    </Intent>
+    <Intent>
+      <Expression>WORK</Expression>
+      <Response>Sure, work sounds like a good topic.</Response>
+    </Intent>
+  </Dialog>
+</Oscova>
