@@ -1,0 +1,1 @@
+# oscova-smalltalk-base
