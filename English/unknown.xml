@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="UnknownDialog" IntentGroup="SmallTalk.Unknown">
     <Intent>
       <Expression>AM I</Expression>
@@ -18254,4 +18254,4 @@
       <Response>Please answer with just A, B or C. Try again!&lt;br /&gt;Who is the best robot? &lt;br /&gt;A. R2D2.&lt;br /&gt;B. ALICE.&lt;br /&gt;C. HAL 9000.&lt;br /&gt;</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

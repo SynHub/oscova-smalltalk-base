@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="ConfirmationDialog" IntentGroup="SmallTalk.Confirmation">
     <Intent>
       <Expression>LATER</Expression>
@@ -30,4 +30,4 @@
       <Response>I hear you.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="TopicsDialog" IntentGroup="SmallTalk.Topics">
     <Intent>
       <Expression>ART</Expression>
@@ -1808,4 +1808,4 @@
       <Response>Sure, work sounds like a good topic.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

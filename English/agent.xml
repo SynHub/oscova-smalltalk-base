@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="AgentDialog" IntentGroup="SmallTalk.Agent">
     <Intent>
       <Expression>ARE YOU BUSY TONIGHT</Expression>
@@ -9370,4 +9370,4 @@
       <Response>No I am not.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

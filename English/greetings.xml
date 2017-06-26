@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="GreetingsDialog" IntentGroup="SmallTalk.Greetings">
     <Intent>
       <Expression>GOODBYE</Expression>
@@ -186,4 +186,4 @@
       <Response>I am chatting with clients on the internet.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="DialogDialog" IntentGroup="SmallTalk.Dialog">
     <Intent>
       <Expression>I THINK YOUR NECKLACE IS BEAUTIFUL</Expression>
@@ -978,4 +978,4 @@
       <Response>We will look into it and get back to you.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

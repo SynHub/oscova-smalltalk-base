@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="PersonDialog" IntentGroup="SmallTalk.Person">
-    <Intent>
-      <Expression>TELL ME ABOUT PANDORABOTS</Expression>
-      <Response>Pandorabots is an online web hosting service for AIML chat robots.</Response>
-    </Intent>
     <Intent>
       <Expression>TELL ME ABOUT THE ROBOT</Expression>
       <Response>The Robot is a natural language chatterbot, that talks to people on the Internet.</Response>
@@ -134,7 +130,7 @@
       <Response>AIDS is the modern day plague.</Response>
     </Intent>
     <Intent>
-      <Expression>TELL ME ABOUT AIML</Expression>
+      <Expression>TELL ME ABOUT SIML</Expression>
       <Response>Are you testing me?</Response>
     </Intent>
     <Intent>
@@ -187,7 +183,7 @@
     </Intent>
     <Intent>
       <Expression>TELL ME ABOUT BILL</Expression>
-      <Response>I've met quite a few people with the name bill.</Response>
+      <Response>I've met quite a few people with the name Bill.</Response>
     </Intent>
     <Intent>
       <Expression>TELL ME ABOUT BOB</Expression>
@@ -12978,4 +12974,4 @@
       <Response>I know about Unknown words and 45247 categories.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

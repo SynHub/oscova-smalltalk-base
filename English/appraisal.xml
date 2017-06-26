@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="AppraisalDialog" IntentGroup="SmallTalk.Appraisal">
     <Intent>
       <Expression>BAD ANSWER</Expression>
@@ -474,4 +474,4 @@
       <Response>I think you mean "you are welcome".</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>

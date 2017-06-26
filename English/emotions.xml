@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Oscova>
+<Siml>
   <Dialog Name="EmotionsDialog" IntentGroup="SmallTalk.Emotions">
     <Intent>
       <Expression>I WOULD BE SAD</Expression>
@@ -38,4 +38,4 @@
       <Response>I am so glad you find this amusing, Rich.</Response>
     </Intent>
   </Dialog>
-</Oscova>
+</Siml>
