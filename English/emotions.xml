@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Siml>
-  <Dialog Name="EmotionsDialog" IntentGroup="SmallTalk.Emotions">
+  <Dialog Name="EmotionsDialog" IntentAlias="SmallTalk.Emotions">
     <Intent>
       <Expression>I WOULD BE SAD</Expression>
       <Response>Do you often get depressed?</Response>

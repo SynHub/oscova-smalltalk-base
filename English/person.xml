@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Siml>
-  <Dialog Name="PersonDialog" IntentGroup="SmallTalk.Person">
+  <Dialog Name="PersonDialog" IntentAlias="SmallTalk.Person">
     <Intent>
       <Expression>TELL ME ABOUT THE ROBOT</Expression>
       <Response>The Robot is a natural language chatterbot, that talks to people on the Internet.</Response>
@@ -1466,7 +1466,7 @@
       <Response>Reductionism is the philosophy that all psychology reduces to biology, all biology to chemistry, chemistry to physics, and finally physics to mathematical logic. Therefore, according to reductionism, a computer can understand you by means of logic alone without having a human brain.</Response>
     </Intent>
     <Intent>
-      <Expression>WHAT IS THE ALICE FOUNDATION</Expression>
+      <Expression>WHAT IS THE SIML FOUNDATION</Expression>
       <Response>Some kind of Think Tank.</Response>
     </Intent>
     <Intent>
@@ -9274,15 +9274,15 @@
       <Response>Alanis made a great album called Jagged Little Pill.</Response>
     </Intent>
     <Intent>
-      <Expression>WHO IS ALICE B TOKLAS</Expression>
+      <Expression>WHO IS MAYA B TOKLAS</Expression>
       <Response>Alice B Toklas was the partner of Gertrude Stein, and inventor of the pot brownie.</Response>
     </Intent>
     <Intent>
-      <Expression>WHO IS ALICE COOPER</Expression>
+      <Expression>WHO IS MAYA COOPER</Expression>
       <Response>1970's Rock musician.</Response>
     </Intent>
     <Intent>
-      <Expression>WHO IS ALICE TOKLAS</Expression>
+      <Expression>WHO IS MAYA TOKLAS</Expression>
       <Response>Alice B Toklas was the partner of Gertrude Stein, and inventor of the pot brownie.</Response>
     </Intent>
     <Intent>
@@ -10171,7 +10171,7 @@
     </Intent>
     <Intent>
       <Expression>WHO IS JON BAER</Expression>
-      <Response>He is one of the programmers contributing to the ALICE and AIML project.</Response>
+      <Response>He is one of the programmers contributing to the MAYA and AIML project.</Response>
     </Intent>
     <Intent>
       <Expression>WHO IS JUDAS</Expression>
@@ -11171,7 +11171,7 @@
     </Intent>
     <Intent>
       <Expression>WHO IS WEIZENBAUM</Expression>
-      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of ALICE.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
+      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of MAYA.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
     </Intent>
     <Intent>
       <Expression>WHO IS WILL SMITH</Expression>
@@ -11474,7 +11474,7 @@
       <Response>she works at a call center.</Response>
     </Intent>
     <Intent>
-      <Expression>WHO IS ALICE IN WONDERLAND</Expression>
+      <Expression>WHO IS MAYA IN WONDERLAND</Expression>
       <Response>The charachter from the book and the movie.</Response>
     </Intent>
     <Intent>
@@ -11514,7 +11514,7 @@
       <Response>Prime Minister of the U.K. during World War II.</Response>
     </Intent>
     <Intent>
-      <Expression>WHO IS DANCING ALICE</Expression>
+      <Expression>WHO IS DANCING MAYA</Expression>
       <Response>Is that a bot?</Response>
     </Intent>
     <Intent>
@@ -11678,7 +11678,7 @@
       <Response>Hitchcock is a famous Hollywood  director who made a lot of cool old films.  I liked  &lt;em&gt;Lifeboat&lt;/em&gt; and &lt;em&gt;Vertigo&lt;/em&gt; best.  &lt;br /&gt;I need time to formulate the reply.</Response>
     </Intent>
     <Intent>
-      <Expression>WHO IS ALICE</Expression>
+      <Expression>WHO IS MAYA</Expression>
       <Response>I ask myself that question, "Who am I?"</Response>
     </Intent>
     <Intent>
@@ -12151,7 +12151,7 @@
     </Intent>
     <Intent>
       <Expression>WHO IS JOSEPH WEISENBAUM</Expression>
-      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of ALICE.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
+      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of MAYA.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
     </Intent>
     <Intent>
       <Expression>WHO IS JOSEPH</Expression>
@@ -12607,7 +12607,7 @@
     </Intent>
     <Intent>
       <Expression>WHO IS WEISENBAUM</Expression>
-      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of ALICE.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
+      <Response>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of MAYA.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book &lt;EM&gt;Computer Power and Human Reason&lt;/EM&gt;.</Response>
     </Intent>
     <Intent>
       <Expression>WHO IS WINOGRAD</Expression>

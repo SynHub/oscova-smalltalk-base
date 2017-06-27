@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Siml>
-  <Dialog Name="AppraisalDialog" IntentGroup="SmallTalk.Appraisal">
+  <Dialog Name="AppraisalDialog" IntentAlias="SmallTalk.Appraisal">
     <Intent>
       <Expression>BAD ANSWER</Expression>
       <Response>What would you have said?</Response>

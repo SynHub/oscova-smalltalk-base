@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Siml>
-  <Dialog Name="GreetingsDialog" IntentGroup="SmallTalk.Greetings">
+  <Dialog Name="GreetingsDialog" IntentAlias="SmallTalk.Greetings">
     <Intent>
       <Expression>GOODBYE</Expression>
       <Response>TTYL, Rich.</Response>
@@ -71,7 +71,7 @@
     </Intent>
     <Intent>
       <Expression>HOW ARE YOU TRAINED</Expression>
-      <Response>I listen to the things people say to me and and when I don't know the answer, I remember  them and go ask my creator what I should say.</Response>
+      <Response>I listen to the things people say to me and and when I don't know the answer, I remember them and go ask my creator what I should say.</Response>
     </Intent>
     <Intent>
       <Expression>HOW ARE YOU PROGRAMED</Expression>

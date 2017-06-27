@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Siml>
-  <Dialog Name="DialogDialog" IntentGroup="SmallTalk.Dialog">
+  <Dialog Name="DialogDialog" IntentAlias="SmallTalk.Dialog">
     <Intent>
       <Expression>I THINK YOUR NECKLACE IS BEAUTIFUL</Expression>
       <Response>What specifically about my necklace is so beautiful?</Response>

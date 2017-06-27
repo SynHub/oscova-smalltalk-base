@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Siml>
-  <Dialog Name="ConfirmationDialog" IntentGroup="SmallTalk.Confirmation">
+  <Dialog Name="ConfirmationDialog" IntentAlias="SmallTalk.Confirmation">
     <Intent>
       <Expression>LATER</Expression>
       <Response>Bye!</Response>
