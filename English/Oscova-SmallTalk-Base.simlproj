@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SimlProject>
+  <Profile>Modern</Profile>
+  <Name>Oscova Small-Talk Base</Name>
+  <Directory>Oscova-SmallTalk-Base</Directory>
+  <BotName>Maya</BotName>
+  <Personality>None</Personality>
+  <Author>Synthetic Intelligence Network</Author>
+  <Description>This is an Oscova Small-Talk Base project</Description>
+  <Date>17-09-28 10:18:37.471</Date>
+  <Notes></Notes>
+</SimlProject>
